@@ -4,8 +4,8 @@ The goal of this software package is to automate the tedious process of adding e
 
 Current Progress:
 The script can seperate events of the form:
->Title
->Date
->Description
+Title
+Date
+Description
 
 The results are written out, and can be piped to a file.
