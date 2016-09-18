@@ -1,0 +1,74 @@
+
+['Capital One Info Session\n', [['Tuesday, September 6'], [0], [20]], [[['5pm'], [0], [3]]], 'Tuesday, September 6\n5pm\n2117 CSIC\n']
+
+['Deloitte Info Session\n', [['Tuesday, September 6'], [0], [20]], [[['6:30pm'], [0], [6]]], 'Tuesday, September 6\n6:30pm\n1202 GL Martin Hall\n']
+
+['Accenture Info Session\n', [['Wednesday, September 7'], [0], [22]], [[['6:30pm'], [0], [6]]], 'Wednesday, September 7\n6:30pm\n1202 GL Martin Hall\n']
+
+['Northrop Grumman - Future Technical Leaders Session\n', [['Thursday, September 8'], [0], [21]], [[['5:30pm'], [0], [6]]], 'Thursday, September 8\n5:30pm\n1202 GL Martin Hall\nBring your resume \xe2\x80\x93 Northrop will conduct interviews the following day!\n']
+
+['Mock Interviews with American Society of Engineers of Indian Origin\n', [['Friday, September 9'], [0], [19]], [[['2pm', '5pm'], [0, 8], [3, 11]], [['6pm'], [0], [3]]], 'Friday, September 9\n2pm \xe2\x80\x93 5pm, by appointment\nUniversity Career Center, 3100 Hornbake Library\nSign up on Careers4Engineers (search for \xe2\x80\x9cASEI\xe2\x80\x9d under the Jobs tab) or if you don\xe2\x80\x99t have an account, call the Engineering Co-op Office at 301-405-3863 and we can set an appointment for you.  Take a hard copy of your resume.  Get 30 minutes of 1:1 time with a recruiter to learn how to ace an interview.  Be sure to keep your appointment slot at the University Career Center or we will disable your C4E account.\nApplied Predictive Technologies Info Session\nMonday September 12\n6pm\nSSU \xe2\x80\x93 Grand Ballroom\nGoogle Recruiting Events:\n']
+
+['Google Alumni Panel\n', [['Monday, September 12'], [0], [20]], [[['7pm'], [0], [3]]], 'Monday, September 12\n7pm\n1202 GL Martin Hall\nRSVP at https://docs.google.com/forms/d/e/1FAIpQLSe5Ho3jyP-PsxmkKHOg8dJiUF1BDq3sGWEA-RG05kABR42R9g/viewform\n']
+
+['Google Resume & Interviewing Workshop\n', [['Tuesday, September 13'], [0], [21]], [[['6:30pm'], [0], [6]]], 'Tuesday, September 13\n6:30pm\n1202 GL Martin Hall\nRSVP at https://docs.google.com/forms/d/e/1FAIpQLScI4xf_-JLlgc4_RdtLIc7w2iB_TJ-5W0yvbbshHOPPi2jSfg/viewform\nResume Critiques and Mock Interview Clinics in Engineering\nSeptember 13 & 19\n1131 GL Martin Hall, By Appointment\nSign up on Careers4Engineers (search for \xe2\x80\x9cClinic\xe2\x80\x9d under the Jobs tab) or if you don\xe2\x80\x99t have an account, call the Engineering Co-op Office at 301-405-3863 and we can set an appointment for you.  Bring a hard copy of your resume.  Get 15 minutes of 1:1 time with a recruiter to learn how to make your resume better!  Or, get 30 minutes of 1:1 time with a recruiter to learn how to ace an interview!   Dress is casual for Resume Critiques and Business Professional is recommended (not required) for Mock Interviews.  US Citizenship required for some slots.  Be sure to keep your appointment slot or we will disable your C4E account.\n']
+
+['Exelon Info Booth\n', [['Wednesday, September 14'], [0], [23]], [[['10:30am', '2pm'], [0, 12], [7, 15]]], 'Wednesday, September 14\n10:30am \xe2\x80\x93 2pm\nGL Martin Lobby\n']
+
+['Microsoft Corporation Info Session\n', [['Wednesday, September 14'], [0], [23]], [[['7pm'], [0], [3]]], 'Wednesday, September 14\n7pm\n1115 CSIC\n']
+
+['NAVAIR Info Session\n', [['Thursday, September 15'], [0], [22]], [[['6pm'], [0], [3]]], 'Thursday, September 15\n6pm\n1202 GL Martin Hall\n']
+
+['T. Rowe Price Info Session\n', [['Friday, September 16'], [0], [20]], [[['3:30pm'], [0], [6]]], 'Friday, September 16\n3:30pm\n1202 GL Martin Hall\n']
+
+['ExxonMobil Info Session\n', [['Monday, September 19'], [0], [20]], [[['5pm'], [0], [3]]], 'Monday, September 19\n5pm\n2110 Chem/Nuc Building\n']
+
+['Redfin Info Session\n', [['Monday, September 19'], [0], [20]], [[['5pm'], [0], [3]]], 'Monday, September 19\n5pm\n2113 SSU \xe2\x80\x93 Thurgood Marshall Room\n']
+
+['Boeing Info Session\n', [['Monday, September 19'], [0], [20]], [[['6:30pm'], [0], [6]]], 'Monday, September 19\n6:30pm\n1202 GL Martin Hall\n']
+
+['DENSO Info Session\n', [['Tuesday, September 20'], [0], [21]], [[['4pm'], [0], [3]]], 'Tuesday, September 20\n4pm\n1105 Kim Building \xe2\x80\x93 Pepco Room\n']
+
+['Texas Instruments Info Session\n', [['Tuesday, September 20'], [0], [21]], [[['5:30pm'], [0], [6]]], 'Tuesday, September 20\n5:30pm\n2460 AV Williams Building\n']
+
+['Anheuser Busch Info Session\n', [['Tuesday, September 20'], [0], [21]], [[['6pm'], [0], [3]]], 'Tuesday, September 20\n6pm\n1105 Kim Building \xe2\x80\x93 Pepco Room\n']
+
+['Orbital ATK Info Session\n', [['Tuesday, September 20'], [0], [21]], [[['6pm'], [0], [3]]], 'Tuesday, September 20\n6pm\n1202 GL Martin Hall\n']
+
+['Fall Career Fair\n', [['Thursday, September 21'], [12], [34]], [[['5pm'], [11], [14]]], 'Wednesday & Thursday, September 21 & 22\n12noon \xe2\x80\x93 5pm\nXfinity Center\nDifferent employers each day!  Check out the list of participating employers. Dress professionally \xe2\x80\x93 wondering what this means?  See examples of professional attire.  Bring copies of your resume.  Wondering how to prepare for the fair?  See our Career Fair Prep handout.\n']
+
+['Facebook Lobby Day in CS\n', [['Wednesday, September 21'], [0], [23]], [[['2pm', '6:30pm'], [0, 8], [3, 14]]], 'Wednesday, September 21\n2pm \xe2\x80\x93 6:30pm\nCSIC Lobby\n']
+
+['Meraki Info Session\n', [['Wednesday, September 21'], [0], [23]], [[['5pm'], [0], [3]]], 'Wednesday, September 21\n5pm\n2108 SSU \xe2\x80\x93 Pyon Su Room\n']
+
+['Ford Motor Company Info Session\n', [['Wednesday, September 21'], [0], [23]], [[['6:30pm'], [0], [6]]], 'Wednesday, September 21\n6:30pm\n1202 GL Martin Hall\n']
+
+['VMware AirWatch Info Session\n', [['Wednesday, September 21'], [0], [23]], [[['7pm'], [0], [3]]], 'Wednesday, September 21\n7pm\n1108 GL Martin Hall\n']
+
+['Goodman/Daikin Info Session\n', [['Wednesday, September 22'], [0], [23]], [[['4pm'], [0], [3]]], 'Wednesday, September 22 \n4pm \n2164 GL Martin Hall \xe2\x80\x93 DeWalt Seminar Room \nSponsored by ASHRAE\n']
+
+['Aerospace Corporation Info Session \xe2\x80\x93 Please note date & location change\n', [['Thursday, September 22'], [0], [22]], [[['5pm'], [0], [3]]], 'Thursday, September 22\n5pm\n3117 CSIC\n']
+
+['Citrix Info Session\n', [['Thursday, September 22'], [0], [22]], [[['5:30pm'], [0], [6]]], 'Thursday, September 22\n5:30pm\n1131B GL Martin Hall \xe2\x80\x93 Conference Room\nSponsored by Theta Tau\n']
+
+['MPR Associates Info Session\n', [['Thursday, September 22'], [0], [22]], [[['5:30pm'], [0], [6]]], 'Thursday, September 22\n5:30pm\n1202 GL Martin Hall\n']
+
+['General Electric Open House\n', [['Friday, September 23'], [0], [20]], [[['5pm'], [11], [14]]], 'Friday, September 23\n12noon \xe2\x80\x93 5pm\nKim Rotunda\n']
+
+['MicroStrategy Lobby Day in CS\n', [['Monday, September 26'], [0], [20]], [[['10am', '4pm'], [0, 9], [4, 12]]], 'Monday, September 26\n10am \xe2\x80\x93 4pm\nCSIC Lobby\n']
+
+['Deloitte Case Interview Workshop\n', [['Monday, September 26'], [0], [20]], [[['5pm'], [0], [3]]], 'Monday, September 26\n5pm\n1105 Kim Building \xe2\x80\x93 Pepco Room\n']
+
+['Key Tech Info Session\n', [['Monday, September 26'], [0], [20]], [[['6:30pm'], [0], [6]]], 'Monday, September 26\n6:30pm\n1202 GL Martin Hall\nAppian Recruiting Events:\n']
+
+['Appian Info Table\n', [['Tuesday, September 27'], [0], [21]], [[['4pm'], [11], [14]]], 'Tuesday, September 27\n12noon \xe2\x80\x93 4pm\nGL Martin Lobby\n']
+
+['Appian Info Session\n', [['Tuesday, September 27'], [0], [21]], [[['6pm'], [0], [3]]], 'Tuesday, September 27\n6pm\n1202 GL Martin Hall\n']
+
+['Gusto Info Session\n', [['Tuesday, September 27'], [0], [21]], [[['5:30pm'], [0], [6]]], 'Tuesday, September 27\n5:30pm\n1105 Kim Building \xe2\x80\x93 Pepco Room\nSponsored by BES\n']
+
+['srcLogic Info Session\n', [['Tuesday, September 27'], [0], [21]], [[['6pm'], [0], [3]]], 'Tuesday, September 27\n6pm\nUniversity Career Center \xe2\x80\x93 3100 Hornbake Library\n']
+
+['James Davis Construction Info Session\n', [['Wednesday, September 28'], [0], [23]], [[['5pm'], [0], [3]]], 'Wednesday, September 28\n5pm\n1108 GL Martin Hall\nBooz Allen Hamilton Recruiting Events:\n']
+
+['Booz Allen Lobby Day in CS\n', [['Thursday, September 29'], [0], [22]], [[['10am', '5pm'], [0, 9], [4, 12]], [['6:30pm'], [0], [6]]], 'Thursday, September 29\n10am \xe2\x80\x93 5pm\nCSIC Lobby\nBooz Allen Tech Talk in CS\nThursday September 29\n']
