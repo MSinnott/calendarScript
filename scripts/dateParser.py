@@ -58,7 +58,11 @@ def arrToStr(arr):
         ret += elem
     return ret
 
-argList = sys.stdin.readlines()
+args = sys.stdin.readlines()
+
+fileName = open(args[0])
+
+argList = filename.readlines()
 
 argList = condenseNewlines(argList)
 
